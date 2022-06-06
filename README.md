@@ -1,3 +1,3 @@
 # Twitter-Sentiment-Analysis
 
-This Twitter Sentiment Analysis was part of my Algorithms Final Project.
+This Twitter Sentiment Analysis was developed as part of my Algorithms Final Project.
